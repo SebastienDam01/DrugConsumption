@@ -1,4 +1,4 @@
-# DrugConsumption
+# Drug Consumption
 
 This project is part of the course **"Data analysis and data mining"**, to be done in a group of 3 students. 
 It consisted of analysing a dataset by applying supervised and/or unsupervised methods in most cases, via Python. 
